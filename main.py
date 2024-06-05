@@ -114,9 +114,6 @@ def main():
         balance += spin(balance)
     print(f"You escaped the casino with ${balance}")
         
-    
-    
-    
 if __name__ == "__main__":
     main()
         
